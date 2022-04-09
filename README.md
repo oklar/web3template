@@ -1,4 +1,4 @@
-## web3template
+## web3template with hardhat
 
 template
 
